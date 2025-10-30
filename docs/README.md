@@ -20,6 +20,11 @@ OctoAcme uses a structured, iterative, and customer-focused approach to project 
 - **Product Manager (PdM)**: Defines outcomes, prioritizes the backlog, and measures success
 - **Developers**: Implement features, collaborate on design, and ensure testability
 - **QA/Testing**: Validate quality and acceptance criteria
+- **Release Manager**: Owns release calendar, coordinates deployment logistics, and manages stakeholder communication
+- **Scrum Master**: Facilitates agile ceremonies, coaches team on practices, and removes impediments
+- **UX Designer**: Designs user flows and interfaces, ensures usability and accessibility standards
+- **Technical Writer**: Creates and maintains documentation for products and processes
+- **Business Analyst**: Analyzes requirements, documents workflows, and ensures business alignment
 - **Stakeholders**: Provide inputs, feedback, and approvals
 
 ### Key Artifacts
