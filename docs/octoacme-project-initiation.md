@@ -13,9 +13,9 @@ Whenever a new project idea or feature proposal is ready to be explored.
 - Decide go/no-go for planning
 
 ## Minimum Deliverables
-- Project One-pager (Problem, Goal, Success Metrics)
+- Project One-pager (Problem, Goal, Success Metrics) — drafted with Business Analyst input
 - Stakeholder list & communication plan
-- High-level timeline and key milestones
+- High-level timeline and key milestones (aligned with Release Manager)
 - Initial risk list
 - Resource needs (team roles, rough effort estimate)
 
